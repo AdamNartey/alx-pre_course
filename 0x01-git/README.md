@@ -1,1 +1,2 @@
-task 1
+#Updated README
+New branch has been created and merged successfully
